@@ -71,7 +71,7 @@ TimeLens/
 ### Local Development Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Kunal-41/TimeLens.git
+   git clone https://github.com/Kunalpantawane/TimeLens.git
    cd TimeLens
    ```
 
@@ -215,7 +215,7 @@ We welcome contributions! Here's how you can help:
 ## 👨‍💻 Author
 
 **Kunal Pantawne**  
-🌐 [GitHub Profile](https://github.com/Kunal-41)  
+🌐 [GitHub Profile](https://github.com/Kunalpantawane)  
 📧 Contact for collaboration opportunities
 
 ---
